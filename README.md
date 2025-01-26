@@ -1,4 +1,4 @@
-# Task
+# Task for Kiwi.com 2022 april
 
 Create an application that is able to parse information about flight from email and return it in structured python dictionary. Your application should be able to parse emails from `Norwegian airlines` and `Latam airlines`. HTML files for emails are included in `data` directory.
 
